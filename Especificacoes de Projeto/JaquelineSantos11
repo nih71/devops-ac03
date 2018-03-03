@@ -1,0 +1,8 @@
+
+Especificações de projeto 
+Tópico parte do documento de engenharia de software, é usado para descrever, no geral, o que será realizado, por quem será realizado e para quem será realizado. 
+A especificação aborda de um todo de uma forma resumida. 
+Dividido em duas etapas 
+ Projeto Preliminar define a estrutura modular do software, as interfaces e as estruturas de dados utilizadas
+  Modelo de Arquitetura  Projeto Detalhado descreve detalhadamente cada módulo definido do projeto preliminar
+  Modelo de Projeto
